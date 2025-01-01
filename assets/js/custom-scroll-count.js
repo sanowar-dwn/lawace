@@ -1,9 +1,3 @@
-/*==========
-
-Theme Name: Lawace - Attorney & Lawyers HTML Template
-Theme Version: 1.0
-
-==========*/
 
 /*==========
 ----- JS INDEX -----
